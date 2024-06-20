@@ -116,7 +116,7 @@ body {
 
 .rodape {
     text-align: center; 
-    margin: 2em 0;   
+    margin: 2em 0 5em 0;   
 }
 
 .rodape__logo {
@@ -126,7 +126,7 @@ body {
 .rodape__lista {
     display: flex;
     justify-content: center;
-    gap: 2em;
+    gap: 1em;
     margin: 0 0 2em;
 }
 
@@ -144,5 +144,5 @@ body {
 .rodape__texto {
     font-size: 14px;
     color:var(--cinza-secundario);
-    margin: 0 0 1em 0;
+    margin: 0 10em 1em 10em;
 }
